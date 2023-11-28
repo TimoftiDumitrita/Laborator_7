@@ -323,5 +323,11 @@ C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumi
 C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg
-C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagine.scale-100.jpeg
 C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\poza.scale-100.jpg
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Dumi's Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Timofti_Dumitrita_Lab7.sourcelink.json

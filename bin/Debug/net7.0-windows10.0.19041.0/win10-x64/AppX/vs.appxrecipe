@@ -30,29 +30,29 @@
     <AppXManifest Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-23T19:43:49.803</Modified>
+      <Modified>2023-11-28T18:10:33.244</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-23T19:34:42.840</Modified>
+      <Modified>2023-11-28T18:08:25.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Timofti_Dumitrita_Lab7.runtimeconfig.json">
       <PackagePath>Timofti_Dumitrita_Lab7.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-23T18:08:44.180</Modified>
+      <Modified>2023-11-28T18:10:32.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Timofti_Dumitrita_Lab7.dll">
       <PackagePath>Timofti_Dumitrita_Lab7.dll</PackagePath>
-      <Modified>2023-11-23T19:43:48.514</Modified>
+      <Modified>2023-11-28T18:08:22.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Timofti_Dumitrita_Lab7.exe</PackagePath>
-      <Modified>2023-11-23T19:43:48.574</Modified>
+      <Modified>2023-11-28T18:08:23.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Timofti_Dumitrita_Lab7.deps.json">
       <PackagePath>Timofti_Dumitrita_Lab7.deps.json</PackagePath>
-      <Modified>2023-11-23T19:20:47.907</Modified>
+      <Modified>2023-11-28T18:10:32.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -914,6 +914,26 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-11-08T19:31:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+      <Modified>2020-09-03T17:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T17:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+      <Modified>2020-09-03T17:13:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2023-05-31T20:12:36.000</Modified>
@@ -921,6 +941,10 @@
     <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dumit\.nuget\packages\microsoft.maui.controls.ref.win\7.0.101\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -940,23 +964,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-23T18:08:40.208</Modified>
+      <Modified>2023-11-28T18:08:21.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-23T18:08:40.230</Modified>
+      <Modified>2023-11-28T18:08:21.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-23T18:08:40.263</Modified>
+      <Modified>2023-11-28T18:08:21.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-23T18:08:40.314</Modified>
+      <Modified>2023-11-28T18:08:21.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-23T18:08:40.476</Modified>
+      <Modified>2023-11-28T18:08:21.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -968,211 +992,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-23T19:34:28.048</Modified>
+      <Modified>2023-11-28T18:08:22.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.315</Modified>
+      <Modified>2023-11-28T18:08:22.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.328</Modified>
+      <Modified>2023-11-28T18:08:22.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.338</Modified>
+      <Modified>2023-11-28T18:08:22.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.356</Modified>
+      <Modified>2023-11-28T18:08:22.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.422</Modified>
+      <Modified>2023-11-28T18:08:22.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.124</Modified>
+      <Modified>2023-11-28T18:08:22.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.127</Modified>
+      <Modified>2023-11-28T18:08:22.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.140</Modified>
+      <Modified>2023-11-28T18:08:22.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.129</Modified>
+      <Modified>2023-11-28T18:08:22.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.133</Modified>
+      <Modified>2023-11-28T18:08:22.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.102</Modified>
+      <Modified>2023-11-28T18:08:22.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.105</Modified>
+      <Modified>2023-11-28T18:08:22.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.121</Modified>
+      <Modified>2023-11-28T18:08:22.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.109</Modified>
+      <Modified>2023-11-28T18:08:22.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.114</Modified>
+      <Modified>2023-11-28T18:08:22.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.061</Modified>
+      <Modified>2023-11-28T18:08:22.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.064</Modified>
+      <Modified>2023-11-28T18:08:22.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.067</Modified>
+      <Modified>2023-11-28T18:08:22.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.072</Modified>
+      <Modified>2023-11-28T18:08:22.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.079</Modified>
+      <Modified>2023-11-28T18:08:22.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.082</Modified>
+      <Modified>2023-11-28T18:08:22.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.085</Modified>
+      <Modified>2023-11-28T18:08:22.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.100</Modified>
+      <Modified>2023-11-28T18:08:22.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.088</Modified>
+      <Modified>2023-11-28T18:08:22.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.093</Modified>
+      <Modified>2023-11-28T18:08:22.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.191</Modified>
+      <Modified>2023-11-28T18:08:22.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.196</Modified>
+      <Modified>2023-11-28T18:08:22.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.203</Modified>
+      <Modified>2023-11-28T18:08:22.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.214</Modified>
+      <Modified>2023-11-28T18:08:22.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.238</Modified>
+      <Modified>2023-11-28T18:08:22.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.165</Modified>
+      <Modified>2023-11-28T18:08:22.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.168</Modified>
+      <Modified>2023-11-28T18:08:22.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.172</Modified>
+      <Modified>2023-11-28T18:08:22.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.176</Modified>
+      <Modified>2023-11-28T18:08:22.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.185</Modified>
+      <Modified>2023-11-28T18:08:22.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.144</Modified>
+      <Modified>2023-11-28T18:08:22.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.148</Modified>
+      <Modified>2023-11-28T18:08:22.193</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.152</Modified>
+      <Modified>2023-11-28T18:08:22.199</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.156</Modified>
+      <Modified>2023-11-28T18:08:22.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.162</Modified>
+      <Modified>2023-11-28T18:08:22.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.246</Modified>
+      <Modified>2023-11-28T18:08:22.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.253</Modified>
+      <Modified>2023-11-28T18:08:22.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.260</Modified>
+      <Modified>2023-11-28T18:08:22.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.273</Modified>
+      <Modified>2023-11-28T18:08:22.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.306</Modified>
+      <Modified>2023-11-28T18:08:22.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.054</Modified>
+      <Modified>2023-11-28T18:08:22.086</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.068</Modified>
+      <Modified>2023-11-28T18:08:22.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.085</Modified>
+      <Modified>2023-11-28T18:08:22.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.112</Modified>
+      <Modified>2023-11-28T18:08:22.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-23T19:34:28.176</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagine.scale-100.jpeg">
-      <PackagePath>imagine.scale-100.jpeg</PackagePath>
-      <Modified>2023-08-19T07:25:27.067</Modified>
+      <Modified>2023-11-28T18:08:22.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dumi%27s Space\Facultate\Anul III, Semestrul 1\Medii de programare\Timofti_Dumitrita_Lab7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\poza.scale-100.jpg">
       <PackagePath>poza.scale-100.jpg</PackagePath>

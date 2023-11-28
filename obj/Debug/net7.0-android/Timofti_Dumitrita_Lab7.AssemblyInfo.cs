@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Timofti_Dumitrita_Lab7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e26986c918aad49bdad72b650e57c95fd245be3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Timofti_Dumitrita_Lab7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Timofti_Dumitrita_Lab7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
